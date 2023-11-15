@@ -1,4 +1,4 @@
-# Ресурсы для изучения Big data
+# Ресурсы для изучения big data
 
 * https://stepik.org/course/150/syllabus - Hadoop. Система для обработки больших объемов данных
 * https://stepik.org/course/16243/syllabus - Введение в Scala
